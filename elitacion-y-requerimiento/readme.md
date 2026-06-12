@@ -1,3 +1,10 @@
+## ¿Qué es elicitar?
+Elicitar significa **descubrir las necesidades reales del cliente**. No es solo recoger información, sino ayudarle a entender qué necesita de verdad, porque muchas veces ni él mismo lo tiene claro.
+
+El analista funciona como un **detective**: observa, pregunta y conecta ideas.
+
+---
+
 ## Idea clave
 Los clientes suelen decir **soluciones** (“quiero una app”), pero tu trabajo es encontrar el **problema real** detrás de eso (“¿por qué la necesita?”).
 
